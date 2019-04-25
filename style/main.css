@@ -1,3 +1,16 @@
 body {
-  background-color: black;
+  background-color: goldenrod;
+}
+
+article {
+  width: 25%;
+  padding-left: .5rem;
+}
+
+.red-dotted {
+  border: 1px dotted red;
+}
+
+.green-solid {
+  border: 1px solid green;
 }
